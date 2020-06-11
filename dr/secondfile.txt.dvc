@@ -1,0 +1,7 @@
+md5: 22b120763d0e0a8b83912e888a107cec
+outs:
+- md5: b69adb7a8e4dbdb0d9a1810f491dbd80
+  path: secondfile.txt
+  cache: true
+  metric: false
+  persist: false
